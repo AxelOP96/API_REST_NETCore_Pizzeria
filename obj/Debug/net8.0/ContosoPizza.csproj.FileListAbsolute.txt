@@ -33,3 +33,4 @@ C:\Users\axeel\OneDrive\Escritorio\Proyectos\ContosoPizza\obj\Debug\net8.0\refin
 C:\Users\axeel\OneDrive\Escritorio\Proyectos\ContosoPizza\obj\Debug\net8.0\ContosoPizza.pdb
 C:\Users\axeel\OneDrive\Escritorio\Proyectos\ContosoPizza\obj\Debug\net8.0\ContosoPizza.genruntimeconfig.cache
 C:\Users\axeel\OneDrive\Escritorio\Proyectos\ContosoPizza\obj\Debug\net8.0\ref\ContosoPizza.dll
+C:\Users\axeel\OneDrive\Escritorio\Proyectos\ContosoPizza\obj\Debug\net8.0\ContosoPizza.sourcelink.json
